@@ -1,3 +1,5 @@
  LANDING PAGE CLINICA
  
- ![image](https://github.com/florenpedrajas/CV-HTML-CSS/blob/master/asset/Resultado.png)
+ ![image](https://github.com/florenpedrajas/PRACTICAS-FLEXBOX-II/blob/master/images/ResultadoClinica_page-0001.jpg)
+ ![image](https://github.com/florenpedrajas/PRACTICAS-FLEXBOX-II/blob/master/images/ResultadoClinica_page-0001.jpg)
+
